@@ -82,7 +82,7 @@ A deep learning-based solution that classifies grape leaf diseases using a webca
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](linkedin.com/in/pratiksha-shilimkar-9249b7262)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratiksha%20Shilimkar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pratiksha-shilimkar-9249b7262)  
 📧 Email: pratikshashilimkar2025@gmail.com  
 
 ---
